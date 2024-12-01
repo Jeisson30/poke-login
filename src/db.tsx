@@ -8,6 +8,10 @@ interface User {
       username: 'admin@aspida',
       password: 'pass8909!'
     },
+    {
+      username: 'user@aspida',
+      password: 'pass156!'  
+    }
   ];
   
   // CONSUMO API SIMULADA

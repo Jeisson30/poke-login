@@ -21,7 +21,7 @@ const Login: React.FC = () => {
       const response = await loginUser(username, password);
 
       if (response.success) {
-        dispatch(login());
+        dispatch(login(username));
         setError('');
         setSuccessMessage(response.message);
         setOpenSnackbarSuccess(true);
