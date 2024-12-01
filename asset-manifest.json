@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/poke-login/static/css/main.e6c13ad2.css",
-    "main.js": "/poke-login/static/js/main.78196489.js",
+    "main.js": "/poke-login/static/js/main.77fc1d3d.js",
     "static/js/453.a1e65c41.chunk.js": "/poke-login/static/js/453.a1e65c41.chunk.js",
     "index.html": "/poke-login/index.html",
     "main.e6c13ad2.css.map": "/poke-login/static/css/main.e6c13ad2.css.map",
-    "main.78196489.js.map": "/poke-login/static/js/main.78196489.js.map",
+    "main.77fc1d3d.js.map": "/poke-login/static/js/main.77fc1d3d.js.map",
     "453.a1e65c41.chunk.js.map": "/poke-login/static/js/453.a1e65c41.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.78196489.js"
+    "static/js/main.77fc1d3d.js"
   ]
 }
